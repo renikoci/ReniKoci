@@ -1,7 +1,6 @@
 ### Hey there 👋
 --- 
 👨‍🎓 Studied BSc. Computer Engineering and currenctly pursuing MSc Data Science <br>
-🎮 Currently learning Game Development with Godot <br>
 
  ---
  
