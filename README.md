@@ -1,6 +1,6 @@
 ### Hey there 👋
 --- 
-👨‍🎓 Studied BSc. Computer Engineering and currenctly pursuing MSc. Data Science <br>
+👨‍🎓 Studied BSc. Computer Engineering and have a MSc. Data Science <br>
 
  ---
  
